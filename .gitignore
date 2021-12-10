@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ipynb
+*.ipynb
+
+# Webdrivers
+drivers/
+
+# Project-specific
+*token.json
+PhpScanner/
